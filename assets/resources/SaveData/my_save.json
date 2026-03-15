@@ -1,0 +1,21 @@
+{
+  "exportTime": 1764750318549,
+  "data": {
+    "playerData": {
+      "playerId": "",
+      "playerName": "玩家",
+      "level": 2,
+      "exp": 10,
+      "gold": 0,
+      "diamond": 0,
+      "currentStage": 1,
+      "maxStage": 1,
+      "totalScore": 0,
+      "musicVolume": 1,
+      "soundVolume": 1,
+      "vibrationEnabled": true
+    },
+    "gameData": {},
+    "itemData": {}
+  }
+}

@@ -1,0 +1,21 @@
+# Cocos Creator
+library/
+temp/
+local/
+build/
+*.meta.bak
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.suo
+*.user
+*.userosscache
+
+# Logs
+*.log
+npm-debug.log*
